@@ -17,6 +17,7 @@ An Advanced Excel Dashboard project analyzing global video game sales across dif
 - Microsoft Excel (Advanced Features)
 
 ## Author
-Sakshi Srivastava
+Anurag Karmakar
+
 
 ---
